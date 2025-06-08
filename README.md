@@ -23,7 +23,9 @@ Includes functions such as readline, fork, execve, pipe, dup2, wait, signal, get
 - Norm-compliant code.
 - Proper use of Makefile with rules: all, clean, fclean, re, bonus
 # ⚙️ Compilation
+'''
 make
 ./minishell
+'''
 # 📝 Note
 This project was part of the 42 curriculum and follows strict constraints for educational purposes. It is a learning tool, not a production-ready shell.
