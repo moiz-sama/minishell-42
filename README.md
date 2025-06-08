@@ -23,7 +23,7 @@ Includes functions such as readline, fork, execve, pipe, dup2, wait, signal, get
 - Norm-compliant code.
 - Proper use of Makefile with rules: all, clean, fclean, re, bonus
 # ⚙️ Compilation
-'''
+'''bash
 make
 ./minishell
 '''
